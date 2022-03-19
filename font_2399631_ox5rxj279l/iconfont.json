@@ -1,0 +1,16 @@
+{
+  "id": "2399631",
+  "name": "circle",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11275196",
+      "name": "circle-arrow-right",
+      "font_class": "circle-arrow-right",
+      "unicode": "e8bb",
+      "unicode_decimal": 59579
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2391060",
+  "name": "xiaomishouji",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14747350",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e72f",
+      "unicode_decimal": 59183
+    }
+  ]
+}

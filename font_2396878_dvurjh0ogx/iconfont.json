@@ -1,0 +1,23 @@
+{
+  "id": "2396878",
+  "name": "kill",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4767012",
+      "name": "left",
+      "font_class": "left",
+      "unicode": "e7eb",
+      "unicode_decimal": 59371
+    },
+    {
+      "icon_id": "12880857",
+      "name": "right",
+      "font_class": "right",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    }
+  ]
+}

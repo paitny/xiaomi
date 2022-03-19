@@ -1,0 +1,44 @@
+{
+  "id": "2400851",
+  "name": "mo",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "90513",
+      "name": "15天无理由退货",
+      "font_class": "15tianwuliyoutuihuo",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "455163",
+      "name": "iconfont-location",
+      "font_class": "iconfontlocation",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "8474258",
+      "name": "gift",
+      "font_class": "gift",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    },
+    {
+      "icon_id": "14966524",
+      "name": "7天退换货",
+      "font_class": "7tiantuihuanhuo",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "19899601",
+      "name": "tool",
+      "font_class": "tool",
+      "unicode": "e6ae",
+      "unicode_decimal": 59054
+    }
+  ]
+}

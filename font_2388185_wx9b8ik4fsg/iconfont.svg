@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="iconfont-cart" unicode="&#58883;" d="M840.597015 192.955224H275.104478l-152.835821 397.373134H56.039801V682.029851h132.457711L336.238806 279.562189h438.129353l71.323383 213.970149H407.562189V580.139303h565.492537zM376.995025 45.21393m-101.890547 0a101.890547 101.890547 0 1 1 203.781094 0 101.890547 101.890547 0 1 1-203.781094 0ZM759.084577 45.21393m-101.890547 0a101.890547 101.890547 0 1 1 203.781094 0 101.890547 101.890547 0 1 1-203.781094 0Z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

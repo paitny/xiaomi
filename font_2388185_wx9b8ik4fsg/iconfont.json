@@ -1,0 +1,16 @@
+{
+  "id": "2388185",
+  "name": "小米图标",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13270798",
+      "name": "iconfont-cart",
+      "font_class": "iconfont-cart",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}

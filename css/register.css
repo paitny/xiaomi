@@ -1,0 +1,81 @@
+.reg-content{
+    width: 480px;
+    height: 600px;
+    margin: 50px auto;
+    background-color: rgb(239,238,241);
+    border-radius: 12px;
+    overflow: hidden;
+
+}
+.title{
+    margin: 30px 0 0 30px;
+}
+.title h3{
+    font-size: 36px;
+    color: #000;
+    padding-bottom: 4px;
+}
+.title a{
+    color: royalblue;
+}
+/* 表单 */
+.reg-form{
+    margin-top: 40px;
+}
+.form-item{
+    margin-bottom: 30px;
+    position: relative;
+}
+.form-item label{
+    /* padding: 10px 30px; */
+    display: inline-block;
+    width: 80px;
+    font-size: 14px;
+    color: #333;
+    text-align: right;
+    margin-right: 10px;
+}
+.form-item  #username{
+    /* width: 321px;
+    padding: 11px 10px; */
+}
+/* :focus状态伪类 当输入框获取到鼠标焦点 */
+.form-item input{
+    width: 321px;
+    padding: 11px 10px;
+    border: none;
+    border-radius: 4px;
+}
+input:focus{
+    outline: none; /*外轮廓*/
+    border: 1px solid #2e52ff;
+}
+#verifyCode{
+    width: 216px;
+
+}
+.form-item .getCode{
+    width: 100px;
+    border: 1px solid #888888;
+    background-color: #fff;
+}
+/*  */
+.userTip{
+    position: absolute;
+    top: -48px;
+    left: 112px;
+    width: 317px;
+    height: 39px;
+    line-height: 30px;
+    background: url(../images/check-username-bg-2x.png);
+    background-size: 100%;
+    font-size: 12px;
+    color: #fff;
+    text-align: center;
+    display: none;
+}
+/* 兄弟选择器 */
+#username:focus +.userTip{
+    display: block;
+
+} 

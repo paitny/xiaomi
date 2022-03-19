@@ -1,0 +1,16 @@
+{
+  "id": "2401038",
+  "name": "message",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10931720",
+      "name": "message-2-fill",
+      "font_class": "message--fill",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    }
+  ]
+}
